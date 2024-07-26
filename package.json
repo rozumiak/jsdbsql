@@ -1,0 +1,24 @@
+{
+  "name": "jsdbsql",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "DB about films",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rozumiak/jsdbsql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rozumiak/jsdbsql/issues"
+  },
+  "homepage": "https://github.com/rozumiak/jsdbsql#readme",
+  "dependencies": {
+    "knex": "^3.1.0",
+    "pg": "^8.12.0"
+  }
+}
